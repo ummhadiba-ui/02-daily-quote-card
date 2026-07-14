@@ -2,7 +2,7 @@
 
 A simple and beautiful motivational quote card built using HTML, CSS, and JavaScript.
 
-## 📌 Features
+## Features
 
 - Motivational quote
 - Author name
@@ -12,13 +12,13 @@ A simple and beautiful motivational quote card built using HTML, CSS, and JavaSc
 - JavaScript alert
 - Console message
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 🚀 How to Use
+##  How to Use
 
 1. Open `index.html` in your browser.
 2. Click the **Inspire Me** button.
@@ -35,7 +35,7 @@ A simple and beautiful motivational quote card built using HTML, CSS, and JavaSc
 - `alert()`
 - `console.log()`
 
-## 👩‍💻 Created By
+##  Created By
 
 **Umm Hadiba**
 
